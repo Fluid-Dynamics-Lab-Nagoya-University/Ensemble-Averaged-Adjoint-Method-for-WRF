@@ -1,5 +1,9 @@
 # Dataset for ensemble-averaged adjoint sensitivity analysis validated by WRF
 
+## First-revision additions
+
+The additional preparation, analysis and plotting tools provided for the first revision of the manuscript are in [`revision1_analyses/`](revision1_analyses/README.md). See its README for the required inputs and workflow. The original workflow is described below.
+
 ## Workflow
 
 ```
